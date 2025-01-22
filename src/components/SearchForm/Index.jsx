@@ -1,4 +1,4 @@
-import { Button } from "@/components/Button";
+import { Button } from "@/components/Button/Index";
 import styles from "./searchform.module.css";
 
 export const SearchForm = () => {
